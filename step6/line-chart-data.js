@@ -1,0 +1,80 @@
+lineChartData = [
+                {
+                    "date": "2012-02-27",
+                    "Kurt Busch": 34,
+                    "Kyle Busch": 17,
+                    "D. Earnhardt Jr.": 2,
+                    "C. Edwards": 8,
+                    "D. Hamlin": 4,
+                    "K. Harvick": 7,
+                    "J.  Johnson": 49,
+                    "M. Kenseth": 1,
+                    "B. Keselowski": 29,
+                    "T. Stewart": 16
+                },
+                {
+                    "date": "2012-03-04",
+                    "Kurt Busch": 26,
+                    "Kyle Busch": 9,
+                    "D. Earnhardt Jr.": 5,
+                    "C. Edwards": 10,
+                    "D. Hamlin": 1,
+                    "K. Harvick": 3,
+                    "J.  Johnson": 37,
+                    "M. Kenseth": 4,
+                    "B. Keselowski": 12,
+                    "T. Stewart": 15
+                },
+                {
+                    "date": "2012-03-11",
+                    "Kurt Busch": 29,
+                    "Kyle Busch": 12,
+                    "D. Earnhardt Jr.": 4,
+                    "C. Edwards": 6,
+                    "D. Hamlin": 3,
+                    "K. Harvick": 2,
+                    "J.  Johnson": 23,
+                    "M. Kenseth": 5,
+                    "B. Keselowski": 21,
+                    "T. Stewart": 7
+                },
+                {
+                    "date": "2012-03-18",
+                    "Kurt Busch": 27,
+                    "Kyle Busch": 15,
+                    "D. Earnhardt Jr.": 6,
+                    "C. Edwards": 14,
+                    "D. Hamlin": 5,
+                    "K. Harvick": 2,
+                    "J.  Johnson": 17,
+                    "M. Kenseth": 3,
+                    "B. Keselowski": 13,
+                    "T. Stewart": 7
+                },
+                {
+                    "date": "2012-03-25",
+                    "Kurt Busch": 23,
+                    "Kyle Busch": 14,
+                    "D. Earnhardt Jr.": 3,
+                    "C. Edwards": 12,
+                    "D. Hamlin": 7,
+                    "K. Harvick": 2,
+                    "J.  Johnson": 8,
+                    "M. Kenseth": 5,
+                    "B. Keselowski": 16,
+                    "T. Stewart": 4
+                },
+                {
+                    "date": "2012-04-01",
+                    "Kurt Busch": 26,
+                    "Kyle Busch": 16,
+                    "D. Earnhardt Jr.": 2,
+                    "C. Edwards": 11,
+                    "D. Hamlin": 7,
+                    "K. Harvick": 5,
+                    "J.  Johnson": 10,
+                    "M. Kenseth": 4,
+                    "B. Keselowski": 12,
+                    "T. Stewart": 3
+                }
+            ];
