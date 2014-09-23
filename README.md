@@ -40,8 +40,3 @@ Step 5: Create functions using functions we already defined. What does it take t
 Step 6: Pull out our functions into a separate chart.js file. Look carefully at what we are importing back to our main files, and what functions are accessible. Go over the difference between public and private functions.
 
 Step 7: Show how we can make a new chart very easily, needing to write only one line of code for a new one. All the common code is abstracted out into a separate, reusable module. No need to rewrite it!
-
-Step 6:
-
-Step 7:
-
