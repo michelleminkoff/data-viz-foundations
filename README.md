@@ -4,15 +4,24 @@ Each of these folders steps us a bit further through the process, from everythin
 
 What We'll Cover In The Session
 
-Introduce concept of libraries
+-- Introduce concept of libraries
+
 -- We write a lot of repetitive code as programmers
+
 -- What can we pull out to get to the interesting part faster?
+
 -- Other programmers write code called “libraries” that we use often
+
 -- Advantages of making our own library
+
 ---- Being able to easily make changes
+
 ---- Establish continuity of style in our org’s work
+
 ---- Develop specific time-saving plan for things we do every day
+
 ---- Make it easy for others to write less code
+
 ---- Standardize style of the code
 
 Follow steps of modularization
